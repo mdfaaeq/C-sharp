@@ -10,8 +10,27 @@ namespace MyFirstProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Started to learn C#");
+            // Displaying on the console
+            Console.Write("Greatings! ");
+            Console.WriteLine("Time to start learning C#");
+
+            // Making a beep noice
             Console.Beep();
+
+            /*
+             * Escape Sequence -> Represents
+             * \a -> Bell (alert)
+             * \b -> Backspace
+             * \f -> Form feed
+             * \n -> New Line
+             * \r -> Carriage Return
+             * \t -> Horizontal tab
+             * \v -> Vertical tab
+             * \' -> Single Quatation Mark
+             * \" -> Double Quatation Mark
+             * \\ -> backslash
+             * \? -> Literal Question Mark
+             */
         }
     }
 }
