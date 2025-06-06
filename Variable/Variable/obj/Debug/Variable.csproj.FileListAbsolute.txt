@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Variable\Variable\bin\Debug\Variable.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Variable\Variable\bin\Debug\Variable.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Variable\Variable\bin\Debug\Variable.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Variable\Variable\obj\Debug\Variable.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Variable\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Variable\Variable\obj\Debug\Variable.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Variable\Variable\obj\Debug\Variable.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Variable\Variable\obj\Debug\Variable.exe.config
