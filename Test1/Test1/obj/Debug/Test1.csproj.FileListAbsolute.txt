@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Test1\Test1\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Test1\Test1\obj\Debug\Test1.exe.config
