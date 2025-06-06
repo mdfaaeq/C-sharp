@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\faaeq\\OneDrive\\Documents\\Personal Work\\C#\\MyFirstProgram\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E0000E-A212-46E4-9D13-032FF5A20A49}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\faaeq\\onedrive\\documents\\personal work\\c#\\myfirstprogram\\myfirstprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E0000E-A212-46E4-9D13-032FF5A20A49}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\faaeq\\OneDrive\\Documents\\Personal Work\\C#\\MyFirstProgram\\MyFirstProgram\\Program.cs",
-              "RelativeDocumentMoniker": "MyFirstProgram\\Program.cs",
-              "ToolTip": "C:\\Users\\faaeq\\OneDrive\\Documents\\Personal Work\\C#\\MyFirstProgram\\MyFirstProgram\\Program.cs",
-              "RelativeToolTip": "MyFirstProgram\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAwwCIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T06:42:28.598Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -31,6 +31,13 @@ namespace MyFirstProgram
              * \\ -> backslash
              * \? -> Literal Question Mark
              */
+
+            // Trying out a few escape sequence
+            Console.WriteLine("\tEscape");
+            Console.WriteLine("Es\bcape");
+
+            // Trying to remove the quite press key until program finishes
+            Console.ReadKey();
         }
     }
 }
