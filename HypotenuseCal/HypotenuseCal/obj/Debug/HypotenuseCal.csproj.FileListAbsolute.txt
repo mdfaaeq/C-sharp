@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\HypotenuseCal\HypotenuseCal\bin\Debug\HypotenuseCal.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\HypotenuseCal\HypotenuseCal\bin\Debug\HypotenuseCal.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\HypotenuseCal\HypotenuseCal\bin\Debug\HypotenuseCal.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\HypotenuseCal\HypotenuseCal\obj\Debug\HypotenuseCal.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\HypotenuseCal\HypotenuseCal\obj\Debug\HypotenuseCal.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\HypotenuseCal\HypotenuseCal\obj\Debug\HypotenuseCal.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\HypotenuseCal\HypotenuseCal\obj\Debug\HypotenuseCal.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\HypotenuseCal\HypotenuseCal\obj\Debug\HypotenuseCal.exe.config
