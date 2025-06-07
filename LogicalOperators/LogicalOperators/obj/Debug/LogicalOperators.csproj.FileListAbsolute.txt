@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.exe.config
