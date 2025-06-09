@@ -10,39 +10,37 @@ namespace Objects
     {
         static void Main(string[] args)
         {
-            Human human1 = new Human();
-            human1.name = "Abhi";
-            human1.age = 30;
+            Car car1 = new Car("Toyota", "Corolla", 2020, "Red");
+            Car car2 = new Car("Honda", "Civic", 2021, "Blue");
+            Car car3 = new Car("Ford", "Mustang", 2019, "Black");
 
-            human1.Eat();
-            human1.Sleep();
-
-            Console.WriteLine();
-
-            Human human2 = new Human();
-            human2.name = "Rashidu";
-            human2.age = 23;
-
-            human2.Eat();
-            human2.Sleep();
+            car1.Drive();
+            car2.Drive();
+            car3.Drive();
 
             Console.ReadKey();
         }
     }
 
-    class Human
+    class Car
     {
-        public string name;
-        public int age;
+        string make;
+        string model;
+        int year;
+        string color;
 
-        public void Eat()
+        public Car(string make, string model, int year, string color)
         {
-            Console.WriteLine(name + " is eating");
+            this.make = make;
+            this.model = model;
+            this.year = year;
+            this.color = color;
         }
 
-        public void Sleep()
+        public void Drive()
         {
-            Console.WriteLine(name + " is sleeping");
+            Console.WriteLine("You drive the " + make + " " + model);
         }
+
     }
 }
