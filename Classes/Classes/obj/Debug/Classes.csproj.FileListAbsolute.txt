@@ -1,0 +1,7 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Classes\Classes\obj\Debug\Classes.pdb
