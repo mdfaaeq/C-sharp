@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayLearning\ArrayLearning\bin\Debug\ArrayLearning.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayLearning\ArrayLearning\bin\Debug\ArrayLearning.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayLearning\ArrayLearning\bin\Debug\ArrayLearning.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayLearning\ArrayLearning\obj\Debug\ArrayLearning.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayLearning\ArrayLearning\obj\Debug\ArrayLearning.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayLearning\ArrayLearning\obj\Debug\ArrayLearning.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayLearning\ArrayLearning\obj\Debug\ArrayLearning.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayLearning\ArrayLearning\obj\Debug\ArrayLearning.exe.config
