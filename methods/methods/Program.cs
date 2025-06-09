@@ -11,8 +11,19 @@ namespace methods
         static void Main(string[] args)
         {
             string msg = "Daily Routing";
-
             message(msg);
+
+            double x;
+            double y;
+            double result;
+            Console.Write("Enter in number 1: ");
+            x = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Enter in number 2: ");
+            y = Convert.ToDouble(Console.ReadLine());
+
+            result = Multiply(x, y);
+            Console.WriteLine(result);
 
             Console.ReadKey();
         }
@@ -24,6 +35,12 @@ namespace methods
             Console.WriteLine("3. Code");
             Console.WriteLine("4. Sleep");
             Console.WriteLine();
+        }
+
+        static double Multiply(double x, double y)
+        {
+            double z = x * y;
+            return z;
         }
     }
 }
