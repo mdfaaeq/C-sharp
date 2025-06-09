@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.exe.config
