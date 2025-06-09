@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\methods\methods\bin\Debug\methods.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\methods\methods\bin\Debug\methods.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\methods\methods\bin\Debug\methods.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\methods\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\methods\methods\obj\Debug\methods.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\methods\methods\obj\Debug\methods.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\methods\methods\obj\Debug\methods.exe.config
