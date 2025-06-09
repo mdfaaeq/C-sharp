@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\MultidimentionalArray\MultidimentionalArray\bin\Debug\MultidimentionalArray.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\MultidimentionalArray\MultidimentionalArray\bin\Debug\MultidimentionalArray.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\MultidimentionalArray\MultidimentionalArray\bin\Debug\MultidimentionalArray.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\MultidimentionalArray\MultidimentionalArray\obj\Debug\MultidimentionalArray.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\MultidimentionalArray\MultidimentionalArray\obj\Debug\MultidimentionalArray.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\MultidimentionalArray\MultidimentionalArray\obj\Debug\MultidimentionalArray.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\MultidimentionalArray\MultidimentionalArray\obj\Debug\MultidimentionalArray.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\MultidimentionalArray\MultidimentionalArray\obj\Debug\MultidimentionalArray.exe.config
