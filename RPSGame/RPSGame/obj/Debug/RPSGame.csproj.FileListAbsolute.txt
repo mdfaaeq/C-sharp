@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\RPSGame\RPSGame\bin\Debug\RPSGame.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\RPSGame\RPSGame\bin\Debug\RPSGame.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\RPSGame\RPSGame\bin\Debug\RPSGame.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\RPSGame\RPSGame\obj\Debug\RPSGame.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\RPSGame\RPSGame\obj\Debug\RPSGame.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\RPSGame\RPSGame\obj\Debug\RPSGame.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\RPSGame\RPSGame\obj\Debug\RPSGame.exe.config
