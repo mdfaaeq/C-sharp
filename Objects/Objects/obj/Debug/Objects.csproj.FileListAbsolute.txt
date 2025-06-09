@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Objects\Objects\bin\Debug\Objects.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Objects\Objects\bin\Debug\Objects.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Objects\Objects\bin\Debug\Objects.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Objects\Objects\obj\Debug\Objects.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Objects\Objects\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Objects\Objects\obj\Debug\Objects.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Objects\Objects\obj\Debug\Objects.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Objects\Objects\obj\Debug\Objects.exe.config
