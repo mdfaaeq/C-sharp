@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ConditionalOperators\ConditionalOperators\bin\Debug\ConditionalOperators.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ConditionalOperators\ConditionalOperators\bin\Debug\ConditionalOperators.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ConditionalOperators\ConditionalOperators\bin\Debug\ConditionalOperators.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.exe.config
