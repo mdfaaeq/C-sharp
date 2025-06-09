@@ -1,0 +1,7 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.pdb
