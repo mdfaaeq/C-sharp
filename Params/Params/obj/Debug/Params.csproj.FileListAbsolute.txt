@@ -1,0 +1,7 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Params\Params\bin\Debug\Params.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Params\Params\bin\Debug\Params.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Params\Params\bin\Debug\Params.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Params\Params\obj\Debug\Params.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Params\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Params\Params\obj\Debug\Params.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Params\Params\obj\Debug\Params.pdb
