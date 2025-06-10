@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayOfObjects\ArrayOfObjects\bin\Debug\ArrayOfObjects.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayOfObjects\ArrayOfObjects\bin\Debug\ArrayOfObjects.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayOfObjects\ArrayOfObjects\bin\Debug\ArrayOfObjects.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayOfObjects\ArrayOfObjects\obj\Debug\ArrayOfObjects.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayOfObjects\ArrayOfObjects\obj\Debug\ArrayOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayOfObjects\ArrayOfObjects\obj\Debug\ArrayOfObjects.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayOfObjects\ArrayOfObjects\obj\Debug\ArrayOfObjects.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ArrayOfObjects\ArrayOfObjects\obj\Debug\ArrayOfObjects.exe.config
