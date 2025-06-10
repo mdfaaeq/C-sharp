@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Arguments\Arguments\bin\Debug\Arguments.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Arguments\Arguments\bin\Debug\Arguments.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Arguments\Arguments\bin\Debug\Arguments.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Arguments\Arguments\obj\Debug\Arguments.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Arguments\Arguments\obj\Debug\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Arguments\Arguments\obj\Debug\Arguments.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Arguments\Arguments\obj\Debug\Arguments.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Arguments\Arguments\obj\Debug\Arguments.exe.config

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faaeq\\OneDrive\\Documents\\Personal Work\\C#\\MethodOverriding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0A0298-D53C-4F59-9B65-6F49132CF9E3}|MethodOverriding\\MethodOverriding.csproj|c:\\users\\faaeq\\onedrive\\documents\\personal work\\c#\\methodoverriding\\methodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0A0298-D53C-4F59-9B65-6F49132CF9E3}|MethodOverriding\\MethodOverriding.csproj|solutionrelative:methodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faaeq\\OneDrive\\Documents\\Personal Work\\C#\\MethodOverriding\\MethodOverriding\\Program.cs",
+              "RelativeDocumentMoniker": "MethodOverriding\\Program.cs",
+              "ToolTip": "C:\\Users\\faaeq\\OneDrive\\Documents\\Personal Work\\C#\\MethodOverriding\\MethodOverriding\\Program.cs",
+              "RelativeToolTip": "MethodOverriding\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwCoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:28:21.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
