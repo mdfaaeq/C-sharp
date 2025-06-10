@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faaeq\\OneDrive\\Documents\\Personal Work\\C#\\PolyImplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{161A76C3-A480-4193-91FF-89671D9E8977}|PolyImplementation\\PolyImplementation.csproj|c:\\users\\faaeq\\onedrive\\documents\\personal work\\c#\\polyimplementation\\polyimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161A76C3-A480-4193-91FF-89671D9E8977}|PolyImplementation\\PolyImplementation.csproj|solutionrelative:polyimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faaeq\\OneDrive\\Documents\\Personal Work\\C#\\PolyImplementation\\PolyImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "PolyImplementation\\Program.cs",
+              "ToolTip": "C:\\Users\\faaeq\\OneDrive\\Documents\\Personal Work\\C#\\PolyImplementation\\PolyImplementation\\Program.cs",
+              "RelativeToolTip": "PolyImplementation\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:51:10.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
