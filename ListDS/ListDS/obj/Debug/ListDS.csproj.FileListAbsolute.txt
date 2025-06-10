@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListDS\ListDS\bin\Debug\ListDS.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListDS\ListDS\bin\Debug\ListDS.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListDS\ListDS\bin\Debug\ListDS.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListDS\ListDS\obj\Debug\ListDS.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListDS\ListDS\obj\Debug\ListDS.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListDS\ListDS\obj\Debug\ListDS.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListDS\ListDS\obj\Debug\ListDS.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListDS\ListDS\obj\Debug\ListDS.exe.config
