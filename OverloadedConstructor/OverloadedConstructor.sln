@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadedConstructor", "OverloadedConstructor\OverloadedConstructor.csproj", "{8C46FAE7-18C9-4107-ACAF-7729EB4797E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C46FAE7-18C9-4107-ACAF-7729EB4797E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C46FAE7-18C9-4107-ACAF-7729EB4797E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C46FAE7-18C9-4107-ACAF-7729EB4797E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C46FAE7-18C9-4107-ACAF-7729EB4797E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8AA288-0305-4171-A9BD-0DE8D70DFF44}
+	EndGlobalSection
+EndGlobal
