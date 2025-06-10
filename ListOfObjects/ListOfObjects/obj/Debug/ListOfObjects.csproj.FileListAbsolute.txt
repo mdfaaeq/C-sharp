@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListOfObjects\ListOfObjects\bin\Debug\ListOfObjects.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListOfObjects\ListOfObjects\bin\Debug\ListOfObjects.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListOfObjects\ListOfObjects\bin\Debug\ListOfObjects.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListOfObjects\ListOfObjects\obj\Debug\ListOfObjects.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListOfObjects\ListOfObjects\obj\Debug\ListOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListOfObjects\ListOfObjects\obj\Debug\ListOfObjects.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListOfObjects\ListOfObjects\obj\Debug\ListOfObjects.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\ListOfObjects\ListOfObjects\obj\Debug\ListOfObjects.exe.config
