@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StaticMember\StaticMember\obj\Debug\StaticMember.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StaticMember\StaticMember\obj\Debug\StaticMember.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StaticMember\StaticMember\bin\Debug\StaticMember.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StaticMember\StaticMember\bin\Debug\StaticMember.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StaticMember\StaticMember\bin\Debug\StaticMember.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StaticMember\StaticMember\obj\Debug\StaticMember.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StaticMember\StaticMember\obj\Debug\StaticMember.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\StaticMember\StaticMember\obj\Debug\StaticMember.exe.config
