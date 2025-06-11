@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Enums\Enums\obj\Debug\Enums.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Enums\Enums\obj\Debug\Enums.exe.config
