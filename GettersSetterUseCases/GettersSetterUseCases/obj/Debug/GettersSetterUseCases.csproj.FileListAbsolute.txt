@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\GettersSetterUseCases\GettersSetterUseCases\bin\Debug\GettersSetterUseCases.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\GettersSetterUseCases\GettersSetterUseCases\bin\Debug\GettersSetterUseCases.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\GettersSetterUseCases\GettersSetterUseCases\bin\Debug\GettersSetterUseCases.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\GettersSetterUseCases\GettersSetterUseCases\obj\Debug\GettersSetterUseCases.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\GettersSetterUseCases\GettersSetterUseCases\obj\Debug\GettersSetterUseCases.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\GettersSetterUseCases\GettersSetterUseCases\obj\Debug\GettersSetterUseCases.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\GettersSetterUseCases\GettersSetterUseCases\obj\Debug\GettersSetterUseCases.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\GettersSetterUseCases\GettersSetterUseCases\obj\Debug\GettersSetterUseCases.exe.config
