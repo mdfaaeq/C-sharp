@@ -1,0 +1,8 @@
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Generic\Generic\bin\Debug\Generic.exe.config
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Generic\Generic\bin\Debug\Generic.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Generic\Generic\bin\Debug\Generic.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Generic\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Generic\Generic\obj\Debug\Generic.exe
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Generic\Generic\obj\Debug\Generic.pdb
+C:\Users\faaeq\OneDrive\Documents\Personal Work\C#\Generic\Generic\obj\Debug\Generic.exe.config
