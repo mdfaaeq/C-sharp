@@ -1,0 +1,15 @@
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\bin\Debug\net9.0\VarsAndData.exe
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\bin\Debug\net9.0\VarsAndData.deps.json
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\bin\Debug\net9.0\VarsAndData.runtimeconfig.json
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\bin\Debug\net9.0\VarsAndData.dll
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\bin\Debug\net9.0\VarsAndData.pdb
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\obj\Debug\net9.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\obj\Debug\net9.0\VarsAndData.AssemblyInfoInputs.cache
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\obj\Debug\net9.0\VarsAndData.AssemblyInfo.cs
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\obj\Debug\net9.0\VarsAndData.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\obj\Debug\net9.0\VarsAndData.sourcelink.json
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\obj\Debug\net9.0\VarsAndData.dll
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\obj\Debug\net9.0\refint\VarsAndData.dll
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\obj\Debug\net9.0\VarsAndData.pdb
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\obj\Debug\net9.0\VarsAndData.genruntimeconfig.cache
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\VarsAndData\obj\Debug\net9.0\ref\VarsAndData.dll

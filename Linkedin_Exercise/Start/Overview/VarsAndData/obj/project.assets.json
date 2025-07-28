@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faaeq\\OneDrive\\Documents\\C-sharp\\Linkedin_Exercise\\Start\\Overview\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\faaeq\\OneDrive\\Documents\\C-sharp\\Linkedin_Exercise\\Start\\Overview\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\faaeq\\OneDrive\\Documents\\C-sharp\\Linkedin_Exercise\\Start\\Overview\\VarsAndData\\VarsAndData.csproj",
+      "projectName": "VarsAndData",
+      "projectPath": "C:\\Users\\faaeq\\OneDrive\\Documents\\C-sharp\\Linkedin_Exercise\\Start\\Overview\\VarsAndData\\VarsAndData.csproj",
       "packagesPath": "C:\\Users\\faaeq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faaeq\\OneDrive\\Documents\\C-sharp\\Linkedin_Exercise\\Start\\Overview\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\faaeq\\OneDrive\\Documents\\C-sharp\\Linkedin_Exercise\\Start\\Overview\\VarsAndData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\faaeq\\AppData\\Roaming\\NuGet\\NuGet.Config"
