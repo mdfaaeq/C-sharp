@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Operators</name>
+    </assembly>
+    <members>
+        <member name="T:Program">
+            See https://aka.ms/new-console-template for more information
+            This program demonstrates different types of operators in C#
+        </member>
+    </members>
+</doc>
