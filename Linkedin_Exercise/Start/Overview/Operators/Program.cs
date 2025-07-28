@@ -103,7 +103,7 @@ do {
 
 // Break and continue statements in loops
 int[] numbers = { 12, 34, 27, 18, 9, 65, 53, 20, 5};
-foreach (int number in numbers) { 
+foreach (int number in numbers) {
     if (number >= 20 && number <= 30) {
         Console.WriteLine($"Skipping number {number} as it is between 20 and 30");
         continue; // Skip the rest of the loop for this iteration
@@ -114,3 +114,24 @@ foreach (int number in numbers) {
     }
     Console.WriteLine($"Number: {number}");
 }
+
+// Exception handling using try-catch
+Console.WriteLine("Demonstrating exception handling:");
+while (true) {
+    try {
+        Console.Write("Enter the first number: ");
+        int? firstInput = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Enter the second number: ");
+        int? secondInput = Convert.ToInt32(Console.ReadLine());
+        int result = firstInput.Value / secondInput.Value;
+        Console.WriteLine($"Result of division: {result}");
+        break; // Exit the loop if successful
+    } catch (DivideByZeroException) {
+        Console.WriteLine("Cannot divide by zero. Please try again.");
+    } catch (FormatException) {
+        Console.WriteLine("Invalid input. Please enter valid integers.");
+    } catch (Exception ex) {
+        Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+    }
+}
+
