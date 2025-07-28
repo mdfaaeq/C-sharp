@@ -39,3 +39,78 @@ Console.WriteLine($"!(x < 5): {!(x < 5)}"); // Logical NOT
 
 /// String concatenation using +
 Console.WriteLine($"a + b = {a + b}"); // Concatenates "Hello" + "World"
+
+// if-else statement to demonstrate conditional logic
+if (x == 10) {
+    Console.WriteLine("x is equal to 10");
+} else {
+    Console.WriteLine("x is not equal to 10");
+}
+
+// Ternary operator for conditional assignment
+Console.WriteLine(x > 5 ? "x is greater than 5" : "x is not greater than 5");
+
+// Switch case to demonstrate multiple conditions
+switch (y) {
+    case 10:
+        Console.WriteLine("y is 10");
+        break;
+    case 20:
+        Console.WriteLine("y is 20");
+        break;
+    default:
+        Console.WriteLine("y is neither 10 nor 20");
+        break;
+}
+
+// For loop to demonstrate iteration
+for (int i = 0; i <= 10; i++) {
+    Console.WriteLine($"i = {i}");
+}
+
+// foreach loop to iterate over an array
+string[] greetings = { "Hello", "Hi", "Hey" };
+foreach (string greeting in greetings) {
+    Console.WriteLine(greeting);
+}
+
+// Counting characters in a string using a foreach loop
+string sampleText = "This is a sample text for demonstrating operators.";
+var charCount = 0;
+foreach (char c in sampleText) {
+    if (c == 'o') charCount++;
+}
+Console.WriteLine($"Number of 'o' characters: {charCount}");
+
+// While loop to demonstrate a condition-based iteration
+string? input = "";
+while (input != "exit") {
+    Console.Write("Type 'exit' to stop: ");
+    input = Console.ReadLine();
+    if (input != "exit") {
+        Console.WriteLine($"You typed: {input}");
+    }
+}
+
+// Do-while loop to ensure the loop runs at least once
+do {
+    Console.Write("Type 'exit' to stop: ");
+    input = Console.ReadLine();
+    if (input != "exit") {
+        Console.WriteLine($"You typed: {input}");
+    }
+} while (input != "exit");
+
+// Break and continue statements in loops
+int[] numbers = { 12, 34, 27, 18, 9, 65, 53, 20, 5};
+foreach (int number in numbers) { 
+    if (number >= 20 && number <= 30) {
+        Console.WriteLine($"Skipping number {number} as it is between 20 and 30");
+        continue; // Skip the rest of the loop for this iteration
+    }
+    if (number == 5) {
+        Console.WriteLine("Breaking at number 5");
+        break; // Exit the loop
+    }
+    Console.WriteLine($"Number: {number}");
+}
