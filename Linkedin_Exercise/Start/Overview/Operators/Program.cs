@@ -125,7 +125,7 @@ while (true) {
         int? secondInput = Convert.ToInt32(Console.ReadLine());
         int result = firstInput.Value / secondInput.Value;
         Console.WriteLine($"Result of division: {result}");
-        break; // Exit the loop if successful
+        break;
     } catch (DivideByZeroException) {
         Console.WriteLine("Cannot divide by zero. Please try again.");
     } catch (FormatException) {
