@@ -1,0 +1,15 @@
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\bin\Debug\net9.0\Strings.exe
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\bin\Debug\net9.0\Strings.deps.json
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\bin\Debug\net9.0\Strings.runtimeconfig.json
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\bin\Debug\net9.0\Strings.dll
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\bin\Debug\net9.0\Strings.pdb
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\obj\Debug\net9.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\obj\Debug\net9.0\Strings.AssemblyInfoInputs.cache
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\obj\Debug\net9.0\Strings.AssemblyInfo.cs
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\obj\Debug\net9.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\obj\Debug\net9.0\Strings.sourcelink.json
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\obj\Debug\net9.0\Strings.dll
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\obj\Debug\net9.0\refint\Strings.dll
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\obj\Debug\net9.0\Strings.pdb
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\obj\Debug\net9.0\Strings.genruntimeconfig.cache
+C:\Users\faaeq\OneDrive\Documents\C-sharp\Linkedin_Exercise\Start\Overview\Strings\obj\Debug\net9.0\ref\Strings.dll
